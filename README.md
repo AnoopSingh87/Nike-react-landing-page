@@ -8,3 +8,4 @@ Responsive layout for all devices
 Interactive elements and smooth transitions
 Built with React and CSS modules
 
+![image](https://github.com/AnoopSingh87/Nike-react-landing-page/assets/144920611/51d3db1e-a254-48af-965c-1df5dfeb1dfa)
